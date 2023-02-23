@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{15:function(e,t,n){e.exports=n(31)},31:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),r=n(7),c=n.n(r),o=n(8),i=n.n(o);function u(){return l.a.createElement("div",null,l.a.createElement(i.a,null),l.a.createElement("h1",null,"hello there! this is a test"),l.a.createElement("h3",null,"Here we are making a chat application"))}c.a.createRoot(document.getElementById("root")).render(l.a.createElement(l.a.StrictMode,null,l.a.createElement(u,null)))}},[[15,1,2]]]);
+//# sourceMappingURL=main.6446a6c8.chunk.js.map
