@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div>
       <AccessAlarmsIcon />
-      <h1>hello there!</h1>
+      <h1>hello there! this is a test</h1>
       <h3>Here we are making a chat application</h3>
     </div>
   )
