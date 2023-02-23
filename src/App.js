@@ -3,7 +3,9 @@ import AccessAlarmsIcon from '@mui/icons-material/AccessAlarms';
 export default function App() {
   return (
     <div>
-      <AccessAlarmsIcon/>
+      <AccessAlarmsIcon />
+      <h1>hello there!</h1>
+      <h3>Here we are making a chat application</h3>
     </div>
   )
 }
